@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhi-Sangawade
-- 👀 I’m interested in Web Devlopement,Linux,AWS 
+- 👀 I’m interested in Linux,AWS,Web Devlopement.
 - 🌱 I’m currently Learning Linux and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
